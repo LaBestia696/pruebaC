@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hola Mundo!\n");
+    printf("¡Hola mundo y esa gran gente de GitHub!\n");
     return 0;
 }
